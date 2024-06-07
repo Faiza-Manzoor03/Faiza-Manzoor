@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faiza-manzoor03&label=Profile%20views&color=0e75b6&style=flat" alt="faiza-manzoor03" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faiza-manzoor03" alt="faiza-manzoor03" /></a> </p>
 
 - 🔭 I’m currently working on [Real state price prediction](https://faiza-manzoor03.github.io/faizamanzoor/)
 
